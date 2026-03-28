@@ -5,7 +5,7 @@ I'm an A Level student with a passion for building things on the web and a plan 
 - 🎓 Currently studying A Levels, heading toward Engineering
 - 🌐 Building web apps with JavaScript, HTML & CSS
 - 🤖 Exploring AI integrations and automation
-- 🎹 Grade 8 pianist when I'm not coding
+- 🎹 Playing piano when I'm not coding
 - 🔐 Dabbling in cybersecurity on the side
 
 ---

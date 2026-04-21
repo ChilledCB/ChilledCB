@@ -1,12 +1,12 @@
 # Hey, I'm ChilledCB 👋
 
-I'm an A Level student with a passion for building things on the web and a plan to study Engineering. I love turning ideas into real products — from polished frontends to AI-powered tools.
+I'm an A Level student with a passion for building things on the web and I am planning to study Engineering.
 
-- 🎓 Currently studying A Levels, heading toward Engineering
+- 🎓 Currently studying A Level Physics, Maths and Music
 - 🌐 Building web apps with JavaScript, HTML & CSS
 - 🤖 Exploring AI integrations and automation
 - 🎹 Playing piano when I'm not coding
-- 🔐 Dabbling in cybersecurity on the side
+- 🔐 Interested in Cybersecurity
 
 ---
 
@@ -20,12 +20,7 @@ I'm an A Level student with a passion for building things on the web and a plan 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-*Always building, always learning.*

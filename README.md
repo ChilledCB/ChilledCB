@@ -13,10 +13,12 @@ I'm an A Level student with a passion for building things on the web and I am pl
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://github.com/ChilledCB/ChilledCB/blob/main/Images/Python.png)
-![JavaScript](https://github.com/ChilledCB/ChilledCB/blob/main/Images/JavaScript.png)
-![HTML5](https://github.com/ChilledCB/ChilledCB/blob/main/Images/HTML.png)
-![CSS](https://github.com/ChilledCB/ChilledCB/blob/main/Images/CSS.png)
+<div align="centre">
+  <a href="https://github.com/ChilledCB?tab=repositories&language=html"><img alt="HTML" src="https://github.com/ChilledCB/ChilledCB/blob/main/Images/HTML.png" height="50px"></a>
+  <a href="https://github.com/ChilledCB?tab=repositories&language=css"><img alt="CSS" src="https://github.com/ChilledCB/ChilledCB/blob/main/Images/CSS.png" height="50px"></a>
+  <a href="https://github.com/DJBonTV?tab=repositories&language=javascript"><img alt="JavaScript" src="https://github.com/ChilledCB/ChilledCB/blob/main/Images/JavaScript.png" height="50px"></a>
+  <a href="https://github.com/ChilledCB?tab=repositories&language=python"><img alt="Python" src="https://github.com/ChilledCB/ChilledCB/blob/main/Images/Python.png" height="50px"></a>
+</div>
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
